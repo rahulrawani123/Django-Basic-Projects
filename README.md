@@ -1,1 +1,2 @@
-# Django-Basic-Projects
+PROJECT 1 - (CALCULATOR)
+
